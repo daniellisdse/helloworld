@@ -1,11 +1,11 @@
 h2{
-    color:orange;
+    color:rgb(99, 31, 163);
 }
 
 body{
     background-color: #305050;
-    color: white;
-    font-family: Roboto;
+    color: pink;
+    font-family: Arial;
     text-align: center;
 }
 
